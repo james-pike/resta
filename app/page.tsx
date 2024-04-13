@@ -33,7 +33,7 @@ export default function Home() {
 
 
           <div className='px-40 w-[80%] flex flex-col justify-start pt-60 space-y-5'>
-            <span className='text-8xl text-white'>Joe's Italian Kitchen</span>
+            <span className='text-8xl text-white'>Joes Italian Kitchen</span>
             <span className='text-neutral-200 text-2xl'>
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. A, quas, iusto corrupti
             </span>
