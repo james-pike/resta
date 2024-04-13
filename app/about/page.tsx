@@ -35,7 +35,7 @@ export default function Home() {
 
 
           <div className='px-40 w-[80%] h-screen flex flex-col justify-start pt-20 space-y-5'>
-            <span className='text-8xl text-white'>Canada's certified Pinsaria.</span>
+            <span className='text-8xl text-white'>Canadas certified Pinsaria.</span>
             <span className='text-neutral-200 text-2xl'>
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. A, quas, iusto corrupti
             </span>
